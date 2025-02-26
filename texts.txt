@@ -1,0 +1,71 @@
+'"' + "Monster Candy" + '"' + " - Heals 10 HP * Has a distinct, non-licorice flavor.
+ " + '"' + "Croquet Roll" + '"' + " - Heals 15 HP * Fried dough traditionally served with a mallet.
+ " + '"' + "Stick" + '"' + " - Weapon AT 0 * Its bark is worse than its bite.
+ " + '"' + "Bandage" + '"' + " - Heals 10 HP * It has already been used several times.
+ " + '"' + "Rock Candy" + '"' + " - Heals 1 HP * Here is a recipe to make this at home: 
+ 1. Find a rock
+ " + '"' + "Pumpkin Rings" + '"' + " - Heals 8 HP * A small pumpkin cooked like onion rings.
+ " + '"' + "Spider Donut" + '"' + " - Heals 12 HP * A donut made with Spider Cider in the batter.
+ " + '"' + "Stoic Onion" + '"' + " - Heals 5 HP * Even eating it raw, the tears just won't come.
+ " + '"' + "Ghost Fruit" + '"' + " - Heals 16 HP * If eaten, it will never pass to the other side.
+ " + '"' + "Spider Cider" + '"' + " - Heals 24 HP * Made with whole spiders, not just the juice.
+ " + '"' + "Butterscotch Pie" + '"' + " - All HP * Butterscotch-cinnamon pie, one slice.
+ " + '"' + "Faded Ribbon" + '"' + " - Armor DF 3 * If you're cuter, monsters won't hit you as hard.
+ " + '"' + "Toy Knife" + '"' + " - Weapon AT 3 * Made of plastic. * A rarity nowadays.
+ " + '"' + "Tough Glove" + '"' + " - Weapon AT 5 * A worn pink leather glove. * For five-fingered folk.
+ " + '"' + "Manly Bandanna" + '"' + " - Armor DF 7 * It has seen some wear. * It has abs drawn on it.
+ " + '"' + "Snowman Piece" + '"' + " - Heals 45 HP * Please take this to the ends of the earth.
+ " + '"' + "Nice Cream" + '"' + " - Heals 15 HP * Instead of a joke, the wrapper says something nice.
+ " + '"' + "Puppydough Icecream" + '"' + " * Heals 28 HP. * Made by young pups.
+ " + '"' + "Bisicle" + '"' + " - Heals 11 HP * It's a two-pronged popsicle, so you can eat it twice.
+ " + '"' + "Unisicle" + '"' + " - Heals 11 HP * It's a SINGLE-pronged popsicle. * Wait, that's just normal...
+ " + '"' + "Cinnamon Bunny" + '"' + " - Heals 22 HP * A cinnamon roll in the shape of a bunny.
+ " + '"' + "Temmie Flakes" + '"' + " - Heals 2 HP * It's just torn up pieces of colored construction paper.
+ * " + '"' + "Old Tutu" + '"' + " - Armor DF 10 * Finally, a protective piece of armor.
+ " + '"' + "Ballet Shoes" + '"' + " - Wpn AT 7 * These used shoes make you feel incredibly dangerous.
+ " + '"' + "Punch Card" + '"' + " - Battle Item * Use to make punching attacks stronger in one battle. 
+ Use outside of battle to look at the card.
+ " + '"' + "Annoying Dog" + '"' + " - Dog * A little white dog. * It's fast asleep...
+ " + '"' + "Dog Salad" + '"' + " - Heals ?? HP * Recovers HP. * (Hit Poodles.)
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Shiny trail left behind by a dog.
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Dog-shaped husk shed from a dog's carapace.
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Dirty dishes left unwashed by a dog.
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Glowing crystals secreted by a dog.
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Jigsaw puzzle left unfinished by a dog.
+ " + '"' + "Dog Residue" + '"' + " - Dog Item * Web spun by a dog to ensnare prey.
+ " + '"' + "Astronaut Food" + '"' + " Heals 21 HP * For feeding a pet astronaut.
+ " + '"' + "Instant Noodles" + '"' + " Heals HP * Comes with everything you need for a quick meal!
+ " + '"' + "Crab Apple" + '"' + " Heals 18 HP * An aquatic fruit that resembles a crustacean.
+ " + '"' + "Hot Dog...?" + '"' + " Heals 20 HP * The " + '"' + "meat" + '"' + " is made of something called a " + '"' + "water sausage." + '"' + "
+ " + '"' + "Hot Cat" + '"' + " Heals 21 HP * Like a hot dog, but with little cat ears on the end.
+ " + '"' + "Glamburger" + '"' + " Heals 27 HP * A hamburger made of edible glitter and sequins.
+ " + '"' + "Sea Tea" + '"' + " Heals 10 HP * Made from glowing marshwater. * Increases SPEED for one battle.
+ " + '"' + "Starfait" + '"' + " Heals 14 HP * A sweet treat made of sparkling stars.
+ " + '"' + "Legendary Hero" + '"' + " Heals 40 HP * Sandwich shaped like a sword. * Increases ATTACK when eaten.
+ " + '"' + "Cloudy Glasses" + '"' + " - Armor DF 6 * Glasses marred with wear. * Increases INV by 9. 
+ (After you get hurt by an attack, you stay invulnerable for longer.)
+ " + '"' + "Torn Notebook" + '"' + " - Weapon AT 2 * Contains illegible scrawls. * Increases INV by 6.
+ (After you get hurt by an attack, you stay invulnerable for longer.)
+ " + '"' + "Stained Apron" + '"' + " - Armor DF 11 * Heals 1 HP every other turn.
+ " + '"' + "Burnt Pan" + '"' + " - Weapon AT 10 * Damage is rather consistent. * Consumable items heal 4 more HP.
+ " + '"' + "Cowboy Hat" + '"' + " - Armor DF 12 * This battle-worn hat makes you want to grow a beard. 
+ It also raises ATTACK by 5.
+ " + '"' + "Empty Gun" + '"' + " - Weapon AT 12 * An antique revolver. * It has no ammo. 
+ Must be used precisely, or damage will be low.
+ " + '"' + "Heart Locket" + '"' + " - Armor DF 15 * It says " + '"' + "Best Friends Forever." + '"' + "
+ " + '"' + "Worn Dagger" + '"' + " - Weapon AT 15 * Perfect for cutting plants and vines.
+ " + '"' + "Real Knife" + '"' + " - Weapon AT 99 * Here we are!
+ " + '"' + "The Locket" + '"' + " - Armor DF 99 * You can feel it beating.
+ " + '"' + "Bad Memory" + '"' + " Hurts 1 HP * ?????
+ " + '"' + "Dream" + '"' + " Heals 12 HP * The goal of " + '"' + "Determination." + '"' + "
+ " + '"' + "Undyne's Letter" + '"' + " - Unique * Letter written for Dr. Alphys.
+ " + '"' + "Undyne's Letter EX" + '"' + " - Unique * It has DON'T DROP IT written on it.
+ " + '"' + "Popato Chisps" + '"' + " Heals 13 HP * Regular old popato chisps.
+ " + '"' + "Junk Food" + '"' + " Heals 17 HP * Food that was probably once thrown away.
+ " + '"' + "Mystery Key" + '"' + " Unique * It is too bent to fit on your keychain.
+ " + '"' + "Face Steak" + '"' + " Heals 60 HP * Huge steak in the shape of Mettaton's face. 
+ (You don't feel like it's made of real meat...)
+ " + '"' + "Hush Puppy" + '"' + " Heals 65 HP * This wonderful spell will stop a dog from casting magic.
+ " + '"' + "Snail Pie" + '"' + " - Heals Some HP * An acquired taste.
+ " + '"' + "temy armor" + '"' + " - Armor DF 20 * The things you can do with a college education! 
+ Raises ATTACK when worn. * Recovers HP every other turn. * INV up slightly.
